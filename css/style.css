@@ -33,6 +33,7 @@
     font-size: 16vw;
     font-weight: 700;
     color: rgba(255, 255, 255, 0.05)
+    /* colocar uma font-family para dar destaque */
 }
 
 header {
@@ -51,7 +52,6 @@ header {
 
 .navigation {
     display: flex;
-
 }
 
 .navigation li {
